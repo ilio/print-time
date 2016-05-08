@@ -9,7 +9,7 @@ https://www.npmjs.com/package/print-time
     
 ##Usage in console:
 
-    echo "log" | node print-time
+    echo "log" | node node_modules/print-time
  Output:
 
     10:11:12.345 log
@@ -19,7 +19,7 @@ https://www.npmjs.com/package/print-time
      {
        "scripts": {
           ...
-          "watch:dev": "npm run build:dev -- --watch | node print-time"
+          "watch:dev": "npm run build:dev -- --watch | node node_modules/print-time"
         }
       }
 

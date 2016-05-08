@@ -1,10 +1,10 @@
 {
   "name": "print-time",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "add timespamp to output",
   "main": "index.js",
   "scripts": {
-    "postinstall": "typings install"
+    "typings install": "typings install"
   },
   "repository": {
     "type": "git",
