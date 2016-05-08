@@ -3,11 +3,14 @@ Install:
 
     npm i print-time --save-dev
     
-Usage in console:
+##Usage in console:
 
     echo "log" | node print-time
+ Output:
+
+    10:11:12.345 log
     
-Usage in package.json script:
+##Usage in package.json script:
 
      {
        "scripts": {
@@ -16,6 +19,4 @@ Usage in package.json script:
         }
       }
 
-output:
 
-    10:11:12.345 log
