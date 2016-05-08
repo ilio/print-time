@@ -1,6 +1,8 @@
 # print-time
 Add timestamp to any program/script output
 
+https://www.npmjs.com/package/print-time
+
 ##Install: 
 
     npm i print-time --save-dev
