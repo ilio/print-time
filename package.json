@@ -1,0 +1,27 @@
+{
+  "name": "print-time",
+  "version": "0.0.2",
+  "description": "add timespamp to output",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "typings install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilio/print-time.git"
+  },
+  "keywords": [
+    "print",
+    "time",
+    "in",
+    "the",
+    "console",
+    "logs"
+  ],
+  "author": "IgorL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilio/print-time/issues"
+  },
+  "homepage": "https://github.com/ilio/print-time#readme"
+}
