@@ -1,6 +1,6 @@
 {
   "name": "print-time",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "add timespamp to output",
   "main": "index.js",
   "scripts": {
