@@ -1,5 +1,7 @@
 # print-time
-Install: 
+Add timestamp to any program/script output
+
+##Install: 
 
     npm i print-time --save-dev
     
